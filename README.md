@@ -1,2 +1,13 @@
-# NarcissismSpringBoot
-스프링부트. 스터디. 정복.
+## NarcissismSpringBoot
+
+- Study with cooool man
+
+### Topics
+
+- SOLID
+- DIP
+- OCP
+- App Config Refactoring
+
+
+
