@@ -14,7 +14,7 @@ public class MemberApp {
 
     //    MemberService memberService = appConfig.memberService();
 
-        // This is Spring Container
+        // This is Spring Container -> applicationcontext : interface
         ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
         MemberService memberService = applicationContext.getBean("memberService", MemberService.class);
         Member member = new Member(1L, "memberA", Grade.VIP);
