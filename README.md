@@ -17,6 +17,7 @@
 ----
 - HTTP
 - Thread
+- CSR, SSR
 - MVC pattern
 - Servlet
 - Next?
