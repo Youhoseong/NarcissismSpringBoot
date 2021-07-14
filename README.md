@@ -13,3 +13,12 @@
 - SRP
 - IoC / DI Container
 
+
+----
+- HTTP
+- Thread
+- CSR, SSR
+- MVC pattern
+- Servlet
+- Next?
+
